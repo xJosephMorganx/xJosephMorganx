@@ -4,8 +4,6 @@ I'm a Manufacturing and Robotics Engineering student focused on building integra
 
 I enjoy the full process of creation: from the first idea and system logic to the final prototype, testing, documentation, and improvement. I like projects where code has a tangible impact, whether it is controlling hardware, managing data, serving a web interface, or helping a mechanism behave the way it was designed to.
 
----
-
 ## About me
 
 - Manufacturing and Robotics Engineering student
@@ -17,8 +15,6 @@ I enjoy the full process of creation: from the first idea and system logic to th
 - I work with digital fabrication processes such as 3D printing, PCB fabrication, CNC milling, laser processes, and CAD/CAM workflows
 - Linux user and open-source enthusiast
 - Always learning through real projects, experiments, mistakes, and iteration
-
----
 
 ## Main areas
 
@@ -38,8 +34,6 @@ I like writing software that connects with real devices or supports engineering 
 
 I use CAD/CAM workflows and digital fabrication as part of the engineering process. 3D printing, PCB fabrication, CNC milling, and laser processes are tools I use to turn ideas into functional prototypes.
 
----
-
 ## Technologies and tools
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -57,13 +51,9 @@ I use CAD/CAM workflows and digital fabrication as part of the engineering proce
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
 ## Current focus
 
 Right now, I am focused on improving my skills in robotics, electronics, embedded systems, control, Python, C/C++, Git/GitHub, Docker, Linux workflows, and digital fabrication.
-
----
 
 ## Long-term goal
 
